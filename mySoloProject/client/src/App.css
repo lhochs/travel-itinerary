@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  /* border: 2px dotted red; */
+  margin: 15% 20%;
+  height: 80%;
+}
+
+.nbTop{
+  padding: 0%;
+  text-align: center;
+}
+
+h1{
+  font-weight: 600;
+  font-size: 42pt;
+}
+
+h3{
+  font-weight: 300;
+}
+
+.nb-bottom{
+  margin: 0% 5% 0% 5%;
+  /* border: 2px dotted red; */
+  padding: 2% 0% 2% 0%;
+}
+
+.inner-box{
+  /* border: 2px dotted red; */
+  align-items: center;
+}
+
+.events{
+  border: 1px solid black;
+  height: 100%;
+  width: 30%;
+  margin: 2% auto;
+  padding: 5%;
+}
+
+.bottom{
+  /* border: 2px dotted red; */
+  padding: 0% 3%;
+  /* border: 2px solid black; */
+}
+.eventInfo{
+  padding: 5%;
+}
+.bottomBtn{
+  margin: auto 20%;
+  text-align: center;
+}
+.form{
+  /* border: 2px dotted black; */
+  padding: 0% 2%;
+}
+.errors{
+  color: red;
+}
+
+button{
+  margin: 2%;
+  background: skyblue;
+  font-family: inherit;
+  padding: 5px;
+  font-weight: 900;
+  font-size: 18px;
+  border: 2px solid black;
+  box-shadow: 2px 2px;
+}
+
+.label{
+  margin:10px;
+}
